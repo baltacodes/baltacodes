@@ -33,7 +33,7 @@ Me chamo Jose Baltasar, tenho 19 anos e moro em Joinville-SC. Atualmente estou c
 <img 
      align="left"
      alt="HTML"
-     title="HTMl"
+     title="Java"
      width="30px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
@@ -42,7 +42,7 @@ Me chamo Jose Baltasar, tenho 19 anos e moro em Joinville-SC. Atualmente estou c
 <img 
      align="left"
      alt="HTML"
-     title="HTMl"
+     title="CSS"
      width="30px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -51,7 +51,7 @@ Me chamo Jose Baltasar, tenho 19 anos e moro em Joinville-SC. Atualmente estou c
 <img 
      align="left"
      alt="HTML"
-     title="HTMl"
+     title="Python "
      width="30px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -60,7 +60,7 @@ Me chamo Jose Baltasar, tenho 19 anos e moro em Joinville-SC. Atualmente estou c
 <img 
      align="left"
      alt="HTML"
-     title="HTMl"
+     title="Git"
      width="30px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
